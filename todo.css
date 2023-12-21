@@ -44,7 +44,7 @@ h1 {
   /* background: -webkit-linear-gradient(rgb(255, 72, 0), rgb(219, 5, 5));
   background-clip: text;
   -webkit-text-fill-color: transparent; */
-  color: aqua;
+  color: rgb(8, 116, 116);
   width: 95px;
   border-color: rgb(212, 80, 80);
   border-width: 1px;
@@ -53,8 +53,7 @@ h1 {
 #todo-input{
   height: 47px;
   width: 300px;
-  border-color: linear-gradient(to right, #f32170, 
-  #ff6b08, #cf23cf, #eedd44); 
+   
   font-size: 30px;
   
 }
@@ -62,8 +61,7 @@ h1 {
 #todo-date{
   height: 47px;
   width: 300px;
-  border-color: linear-gradient(to right, #f32170, 
-  #ff6b08, #cf23cf, #eedd44); 
+  
   font-size: 30px;
   border-radius: 50px 50px 50px 50px;
 }
